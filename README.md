@@ -1,1 +1,1 @@
-Atvidades do curso de programção da LionsDev
+Atvidades do curso de programação da LionsDev
