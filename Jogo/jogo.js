@@ -34,7 +34,7 @@ const criar= () =>{
     const jogo = modelo()
         
     if(jogo != undefined){
-        jogos.push()
+        jogos.push(jogo)
         console.log("Jogo cadastrado com sucesso")
     }
 }
